@@ -11,7 +11,7 @@
 </p>
 
  <br><br><br>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naman2341&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&custom_title="GitHub Stats"/>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naman2341&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&custom_title/>
   <br>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private"/>
 
