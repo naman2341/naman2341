@@ -4,8 +4,8 @@
  
  ![](https://komarev.com/ghpvc/?username=naman2341&color=blueviolet)
  <br><br><br>
- <img src="https://github-readme-stats.vercel.app/api/?username=naman2341"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341"/>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham"/>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naman2341&show_icons=true&theme=gotham"/>
 
 
 <!--**naman2341/naman2341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
