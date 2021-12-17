@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- 
+ ![](https://komarev.com/ghpvc/?username=naman2341&color=blueviolet)
  <img src="https://github-readme-stats.vercel.app/api/?username=naman2341"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341"/>
 
