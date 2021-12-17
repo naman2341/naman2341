@@ -1,5 +1,5 @@
 
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/Home.gif" width="100%" height="150">
 
   <p align = "right">
   <a href="https://github.com/naman2341">  
