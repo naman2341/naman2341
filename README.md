@@ -1,5 +1,7 @@
 ### Hi there 👋
  
+ <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+ 
  ![](https://komarev.com/ghpvc/?username=naman2341&color=blueviolet)
  <br><br><br>
  <img src="https://github-readme-stats.vercel.app/api/?username=naman2341"/>
