@@ -16,12 +16,15 @@
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naman2341&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Github Stats"/>
   <br>
   
+  <hr>
+  
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
   
+  <hr>
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private"/>
 
