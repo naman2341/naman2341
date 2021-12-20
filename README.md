@@ -24,5 +24,17 @@
  
  [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=react-dark&color=54a58b&line=90b3a4)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
+  <hr>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private"/>
 
+<p></br></p>
+<p align="center">
+  <a href="https://twitter.com/naman2341" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  
+<a href="https://www.instagram.com/naman2341/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  
+<a href="https://discord.gg/rXFx6cegC7" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> 
+  
+<a href="appleinc2341@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  
+</p>  
