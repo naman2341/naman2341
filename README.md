@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/Name1.png" width="441" height="100">
+  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/Name.png" width="441" height="100">
 </p>	  
   
-  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/waves1.svg" width="100%" height="150">
+  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/waves.svg" width="100%" height="150">
   
  <br>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naman2341&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Github Stats"/>
