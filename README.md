@@ -32,6 +32,8 @@ Just leave my green theme alone!-->
   <img src="https://raw.githubusercontent.com/naman2341/github-stats-transparent/output/generated/overview.svg" height="300"/>
 </p>
   
+  <hr>
+  
 <p></br></p>
 <p align="center">
   <a href="https://twitter.com/naman2341" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="naman2341"/></a> 
