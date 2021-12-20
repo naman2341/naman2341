@@ -21,6 +21,8 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=naman2341&hide_title=true&hide_border=true&langs_count=5&theme=gotham)
  
  <hr>
+ 
+ [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=react-dark)](https://github.com/naman2341/github-readme-activity-graph)
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private"/>
 
