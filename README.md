@@ -22,7 +22,7 @@
  
  <hr>
  
- [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=react-dark&color=54a58b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=react-dark&color=54a58b&line=90b3a4)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private"/>
 
