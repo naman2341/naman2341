@@ -23,13 +23,14 @@ Just leave my green theme alone!-->
  
  <hr>
  
- [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=react-dark&color=54a58b&line=90b3a4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <hr>
   
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private"/>
-  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/transparent1.png" width="120" height="285"/>
-  <img src="https://raw.githubusercontent.com/naman2341/github-stats-transparent/output/generated/overview.svg" height="300"/>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private" height=250/>
+  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/transparent1.png" width="50" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naman2341&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Github Stats" height="250"/>
+  <!--<img src="https://raw.githubusercontent.com/naman2341/github-stats-transparent/output/generated/overview.svg" height="300"/>-->
 </p>
   
   <hr>
