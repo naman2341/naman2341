@@ -21,7 +21,7 @@ Just leave my green theme alone!-->
  
  <hr>
  
- [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Naman's github activity graph](https://fierce-reef-83775.herokuapp.com/graph?username=naman2341&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <hr>
   
