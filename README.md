@@ -22,7 +22,7 @@ Just leave my green theme alone!-->
  <hr>
  
  
- [![Click this to see graph!](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=gotham)](https://fierce-reef-83775.herokuapp.com/graph?username=naman2341&theme=gotham)
+ [![Oops!](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=gotham)](https://github.com/naman2341)
   
   <hr>
   
