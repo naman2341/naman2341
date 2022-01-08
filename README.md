@@ -5,6 +5,9 @@ Just leave my green theme alone!-->
   <a href="https://github.com/naman2341">  
   <img src ="https://komarev.com/ghpvc/?username=naman2341&color=54a58b&style=flat-square" alt="Profile Visitors"/>
   </a>
+  <a href="hhttps://wakatime.com/@d2f9920b-ee08-4e65-a4ef-ea7162fd91dd">  
+  <img src ="https://wakatime.com/badge/user/d2f9920b-ee08-4e65-a4ef-ea7162fd91dd.svg" alt="Wakatime Badge"/>
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +20,7 @@ Just leave my green theme alone!-->
   
   <hr>
   
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=naman2341&hide_title=true&hide_border=true&langs_count=5&theme=gotham)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@d2f9920b-ee08-4e65-a4ef-ea7162fd91dd&hide_title=true&hide_border=true&langs_count=5&theme=gotham)
  
  <hr>
  
