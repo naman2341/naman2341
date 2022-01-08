@@ -20,8 +20,10 @@ Just leave my green theme alone!-->
   
   <hr>
   
+<p align="center">  
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@d2f9920b-ee08-4e65-a4ef-ea7162fd91dd&hide_title=true&hide_border=true&langs_count=5&theme=gotham)
- 
+</p>
+
  <hr>
  
  
