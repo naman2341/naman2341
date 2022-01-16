@@ -47,6 +47,6 @@ Just leave my green theme alone!-->
   <a href="https://twitter.com/naman2341" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="naman2341"/></a> 
   <a href="https://www.instagram.com/naman2341/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="naman2341" /></a> 
     <a href="https://discord.gg/rXFx6cegC7" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="naman2341" /></a>
-  <a href="mailto:appleinc2341@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="naman2341"  /></a> 
+  <a href="mailto:appleinc2341@gmail.com?subject=I%20Found%20You%20On%20Github%21"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="naman2341"  /></a> 
 </p>  
 
