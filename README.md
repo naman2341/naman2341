@@ -35,7 +35,7 @@ Just leave my green theme alone!-->
   <hr>
   
   <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman2341&show_icons=true&theme=gotham&count_private" height=250/>
-  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/transparent1.png" width="200" height="200"/>
+  <img src="https://raw.githubusercontent.com/naman2341/naman2341/master/transparent1.png" width="100" height="200"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naman2341&theme=gotham" height=250/>
   
