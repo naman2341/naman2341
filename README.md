@@ -30,7 +30,7 @@ Just leave my green theme alone!-->
  <hr>
  
  
- [![Oops!](https://activity-graph.herokuapp.com/graph?username=naman2341&theme=gotham)](https://github.com/naman2341)
+ [![You should not be seeing this!]([https://activity-graph.herokuapp.com/graph?username=naman2341&theme=gotham](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman2341&theme=gotham))](https://github.com/naman2341)
   
   <hr>
   
