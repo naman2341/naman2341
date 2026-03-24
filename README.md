@@ -22,8 +22,8 @@ Just leave my green theme alone!-->
   
   
 <p align = "center">
-  <a href="https://wakatime.com/@d2f9920b-ee08-4e65-a4ef-ea7162fd91dd">  
-  <img src ="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@d2f9920b-ee08-4e65-a4ef-ea7162fd91dd&hide_title=true&hide_border=true&langs_count=5&theme=gotham" alt="Wakatime stats"/>
+  <a href="https://wakatime.com/@naman2341">  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=naman2341&theme=gotham&hide_border=true" alt="Wakatime stats"/>
   </a>
 </p>
 
