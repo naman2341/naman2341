@@ -23,7 +23,7 @@ Just leave my green theme alone!-->
   
 <p align = "center">
   <a href="https://wakatime.com/@naman2341">  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=naman2341&theme=gotham&hide_border=true" alt="Wakatime stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@naman2341&theme=gotham&hide_border=true" alt="Wakatime stats"/>
   </a>
 </p>
 
